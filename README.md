@@ -1,5 +1,5 @@
 # FreeHomeAgent 居家坐席、移动坐席
-Home seats, mobile seats, Internet seats, mobile seats, Call Center, Contact Center, AI, large model, artificial intelligence, contact center, Robot, large model robot, breaking the space limitation and opening a new era of home office,居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!!!!!!
+Home seats, mobile seats, Internet seats, mobile seats, Call Center, Contact Center, AI, large model, artificial intelligence, contact center, Robot, large model robot, breaking the space limitation and opening a new era of home office,居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
@@ -22,7 +22,7 @@ Home seats, mobile seats, Internet seats, mobile seats, Call Center, Contact Cen
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、居家坐席、移动坐席、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.07.05，FreeHomeAgent 居家坐席、移动坐席还在迭代ing）:
+## 📫 How to reach us（截止2025.07.07，FreeHomeAgent 居家坐席、移动坐席还在迭代ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
 - 官方WeChat03:easyaicc
