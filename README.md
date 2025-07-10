@@ -1,5 +1,5 @@
 # FreeHomeAgent 居家坐席、移动坐席
-Home seats, mobile seats, Internet seats, mobile seats, Call Center, Contact Center, AI, large model, artificial intelligence, contact center, Robot, large model robot, breaking the space limitation and opening a new era of home office,居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!!!!!!!
+Home seats, mobile seats, Internet seats, mobile seats, Call Center, Contact Center, AI, large model, artificial intelligence, contact center, Robot, large model robot, breaking the space limitation and opening a new era of home office,居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!!!!!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
